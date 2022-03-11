@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shoolapani
-- 👀 I’m interested in Software Devlopment
+- 👀 I’m interested in Software Devlopment and problem solving.
 - 🌱 I’m currently learning Solidity, EVM, Python.
 - 💞️ I’m looking to collaborate on any Open source Project
 - 📫 How to reach me  https://www.linkedin.com/in/satyam-kumar-1707141/
