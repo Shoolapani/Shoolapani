@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shoolapani
+- 👋 Hi, I’m Satyam Kumar
 - 👀 I’m interested in Software Devlopment and problem solving.
 - 🌱 I’m currently learning Solidity, EVM, Python.
 - 💞️ I’m looking to collaborate on any Open source Project
