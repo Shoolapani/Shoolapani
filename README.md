@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Solidity, EVM, Python.
 - 💞️ I’m looking to collaborate on any Open source Project
 - 📫 How to reach me  https://www.linkedin.com/in/satyam-kumar-1707141/
+-  My Own Portfolio https://satyam-kumar.netlify.app/
 
 <!---
 Shoolapani/Shoolapani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
