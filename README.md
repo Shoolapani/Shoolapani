@@ -1,4 +1,4 @@
-- ![image](https://user-images.githubusercontent.com/83538929/161213800-19eeb652-2ef4-4796-9910-0b40ffd63553.png) 
+     ![image](https://user-images.githubusercontent.com/83538929/161213800-19eeb652-2ef4-4796-9910-0b40ffd63553.png) 
 -    # Namaste I’m Satyam Kumar
 - 👀 I’m interested in Software Devlopment and problem solving.
 - 🌱 I’m currently learning Solidity, EVM, Python.
