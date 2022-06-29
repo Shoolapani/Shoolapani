@@ -1,5 +1,5 @@
 
-- ## 🙏🙏 Namaste I’m Satyam Kumar
+## 🙏🙏 Namaste I’m Satyam Kumar
 - 👀 I’m interested in Software Devlopment and problem solving.
 - 🌱 I’m currently learning JavaScript, Node Js & Devops.
 - 💞️ I’m looking to collaborate on any Open source Project
