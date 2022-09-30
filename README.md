@@ -1,20 +1,21 @@
 <h1 align="center">Namaste 🙏, I'm Satyam Kumar</h1>
 <h2 align="center"> Hare Krishna</h2>
-<h3 align="center">A passionate Backend developer from India.</h3>
+
+<h3 align="center">👨‍💻 I'm a < Explorer | Creator | Developer | Cloud Enthusiast</h3>
+
+- 🔭 I’m currently working on [SOME/IP](https://github.com/Shoolapani/vsomeip)
 
 - 🌱 I’m currently learning **Data Structure & Algorithm, Devops**
 
-- 👯 I’m looking to collaborate on **Open Source.**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 📝 I regularly write articles on [https://leetcode.com/BAAP_JI141/](https://leetcode.com/BAAP_JI141/)
 
-- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern.**
+- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern**
 
 - 📫 How to reach me **satyamkumarjha040@gmail.com**
 
-- ✨ **In sort Electronics & Electrical engineer by degree, 😉 Software engineer by Profession.**
-
-- ⚡ Fun fact **I crack Lame Joke's 😜😁**
+- ⚡ Fun fact **I crack Lame Joke's 😜😁😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
