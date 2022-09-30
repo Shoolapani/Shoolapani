@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm Satyam Kumar</h1>
 <h2 align="center"> Hare Krishna</h2>
 
-<h3 align="center">👨‍💻 I'm a < Explorer | Creator | Developer | Cloud Enthusiast</h3>
+<h3 align="center">👨‍💻 I'm a Explorer | Creator | Developer | Cloud Enthusiast</h3>
 
 - 🔭 I’m currently working on [SOME/IP](https://github.com/Shoolapani/vsomeip)
 
