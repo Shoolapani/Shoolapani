@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h1 align="center">Namaste 🙏, I'm Satyam Kumar</h1>
+<h2 align="center"> Hare Krishna</h2>
 <h3 align="center">A passionate Backend developer from India.</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm, Devops**
