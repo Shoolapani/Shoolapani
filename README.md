@@ -4,15 +4,17 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm, Devops**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source.**
 
 - 📝 I regularly write articles on [https://leetcode.com/BAAP_JI141/](https://leetcode.com/BAAP_JI141/)
 
-- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern**
+- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern.**
 
 - 📫 How to reach me **satyamkumarjha040@gmail.com**
 
-- ⚡ Fun fact **I crack Lame Joke's 😜😁😉**
+- ✨ **In sort Electronics & Electrical engineer by degree, 😉 Software engineer by Profession.**
+
+- ⚡ Fun fact **I crack Lame Joke's 😜😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
