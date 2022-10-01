@@ -1,7 +1,10 @@
+![giphy](https://user-images.githubusercontent.com/83538929/193385669-7324a108-fd0d-494e-b12b-5c5a881410f0.gif)
+
 <h1 align="center">Namaste 🙏, I'm Satyam Kumar</h1>
 <h2 align="center"> Hare Krishna</h2>
 
 <h3 align="center">👨‍💻 I'm a Explorer | Creator | Developer | Cloud Enthusiast</h3>
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/83538929/193385705-33b62f24-7092-40aa-8148-2fb193fffcd6.gif)
 
 - 🔭 I’m currently working on [SOME/IP](https://github.com/Shoolapani/vsomeip)
 
