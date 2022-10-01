@@ -1,5 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/83538929/193385669-7324a108-fd0d-494e-b12b-5c5a881410f0.gif)
-![namaste](https://user-images.githubusercontent.com/83538929/193385871-3c9f2f09-3acb-49be-96be-0ce9422cb664.gif)
+![namaste-covid](https://user-images.githubusercontent.com/83538929/193385920-8d56f455-4148-4ee2-8264-b095618de54d.gif)
 
 
 <h1 align="center">Namaste 🙏, I'm Satyam Kumar</h1>
