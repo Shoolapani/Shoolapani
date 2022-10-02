@@ -23,7 +23,9 @@
 
 - 📫 How to reach me **satyamkumarjha040@gmail.com**
 
-- ⚡ Fun fact **I crack Lame Joke's 😜😁😉**
+- 🤷‍♀ In sort Electronics & Electrical engineer by degree, 😉 Software engineer by Profession.
+
+- ⚡ Fun fact **I crack Lame Joke's 😜😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
