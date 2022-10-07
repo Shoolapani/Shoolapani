@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://leetcode.com/BAAP_JI141/](https://leetcode.com/BAAP_JI141/)
 
-- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern**
+- 💬 Ask me about **C/C++, DSA, OOP's, Design Pattern, LLD**
 
 - 📫 How to reach me **satyamkumarjha040@gmail.com**
 
