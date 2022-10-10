@@ -40,5 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoolapani&" alt="shoolapani" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoolapani&show_icons=true&locale=en&layout=compact" alt="shoolapani" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoolapani&show_icons=true&locale=en" alt="shoolapani" /></p>
 
