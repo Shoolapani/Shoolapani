@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [SOME/IP](https://github.com/Shoolapani/vsomeip)
 
-- 🌱 I’m currently learning **Data Structure & Algorithm, Devops**
+- 🌱 I’m currently learning ** Block chain Development | Solidity | EVM **
 
 - 👯 I’m looking to collaborate on **Open Source**
 
