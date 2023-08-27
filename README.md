@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoolapani" alt="shoolapani" /></a> </p>
 
-- 🔭 I’m currently working on [SOME/IP](https://github.com/Shoolapani/vsomeip)
+- 🔭 I’m currently working on [Solidity](https://twitter.com/solidity_lang)
 
 - 🌱 I’m currently learning **Blockchain Development | Solidity | EVM**
 
